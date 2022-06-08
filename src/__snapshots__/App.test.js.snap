@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Main Page test Price Source text exists snapshot testing 1`] = `
+Array [
+  <label
+    for="cars"
+  >
+    Price Source: 
+  </label>,
+]
+`;
+
+exports[`Main Page test context snapshot testing 1`] = `
+Array [
+  <h2>
+    Ticker
+  </h2>,
+]
+`;
+
+exports[`root test Should render app without crashing 1`] = `"{\\"_reactInternalInstance\\":\\"censored\\"}"`;
